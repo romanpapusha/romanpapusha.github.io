@@ -21,6 +21,9 @@
       that depend on this land to survive. Right now, the reserve is in danger.
       Any help will be valuable in protecting this habitat for future generations.
     </p>
+    <p>
+    <h3 style="font-weight: bold">Make a donation </h3>
+    </p>
 
     <!-- Fundraise Up: the new standard for online giving -->
     <script>(function(w,d,s,n,a){if(!w[n]){var l='call,catch,on,once,set,then,track'
