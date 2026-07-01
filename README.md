@@ -18,7 +18,7 @@
 
   <main>
 
-    <img src="lakuna-reserve.webp" alt="Lakuna Reserve landscape with zebras">
+    <img src="https://res.cloudinary.com/ddjuftfy2/image/upload/f_webp,c_fill,q_auto/memphis/large/2913ab82d46675e6a27d9c7fbe5457e7.jpg">
 
     <p>
       Lakuna Reserve is home to many species of wildlife, including zebras,
