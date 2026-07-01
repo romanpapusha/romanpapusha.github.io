@@ -1,1 +1,48 @@
-# romanpapusha.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Save Lakuna Reserve</title>
+</head>
+<body>
+
+  <header>
+    <h1>Save Lakuna Reserve</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+
+    <img src="lakuna-reserve.webp" alt="Lakuna Reserve landscape with zebras">
+
+    <p>
+      Lakuna Reserve is home to many species of wildlife, including zebras,
+      that depend on this land to survive. Right now, the reserve is in danger.
+      Any help will be valuable in protecting this habitat for future generations.
+    </p>
+
+    <!-- Fundraise Up: the new standard for online giving -->
+    <script>(function(w,d,s,n,a){if(!w[n]){var l='call,catch,on,once,set,then,track'
+    .split(','),i,o=function(n){return'function'==typeof n?o.l.push([arguments])&&o
+    :function(){return o.l.push([n,arguments])&&o}},t=d.getElementsByTagName(s)[0],
+    j=d.createElement(s);j.async=!0;j.src='https://cdn.fundraiseup.com/widget/'+a;
+    t.parentNode.insertBefore(j,t);o.s=Date.now();o.v=4;o.h=w.location.href;o.l=[];
+    for(i=0;i<7;i++)o[l[i]]=o(l[i]);w[n]=o}
+    })(window,document,'script','FundraiseUp','AEMZUDUM');</script>
+    <!-- End Fundraise Up -->
+
+    <a href="#XJKDHSTQ" style="display: none"></a>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2026</p>
+  </footer>
+
+</body>
+</html>
